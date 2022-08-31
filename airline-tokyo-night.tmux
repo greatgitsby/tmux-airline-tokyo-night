@@ -3,13 +3,13 @@
 main() {
 
   ## Colors
-  black='colour16'
-  white='colour255'
-  gray='colour236'
-  dark_gray='colour236'
-  yellow='colour215'
-  light_purple='colour141'
-  dark_purple='colour61'
+  black='#1a1b26'
+  white='#c0caf5'
+  gray='#a9b1d6'
+  dark_gray='#24283b'
+  yellow='#e0af68'
+  light_purple='#bb9af7'
+  dark_purple='#7aa2f7'
 
   ## Icons
   left_sep=''
