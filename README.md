@@ -1,6 +1,6 @@
 # tmux-airline-tokyo-night
 
-A tmux theme for Tokyo Night color scheme.
+A tmux theme for the [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme) color scheme.
 
 ![Screenshot](/screenshot.png)
 
