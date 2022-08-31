@@ -33,10 +33,10 @@ main() {
   tmux set-window-option -g window-status-activity-style "fg=${white},bg=${gray}"
   tmux set-window-option -g window-status-separator ''
   tmux set-window-option -g window-status-format ' #I #W '
-  tmux set-window-option -g window-status-style "fg=${yellow},bg=${dark_gray}"
+  tmux set-window-option -g window-status-style "fg=${yellow},bg=${black}"
   tmux set-window-option -g window-status-current-format \
     "${right_sep}#[fg=${black}] #I ${right_alt_sep} #W #[fg=${dark_gray},reverse]${right_sep}"
-  tmux set-window-option -g window-status-current-style "fg=${dark_gray},bg=${light_purple}"
+  tmux set-window-option -g window-status-current-style "fg=${black},bg=${light_purple}"
 }
 
 main
