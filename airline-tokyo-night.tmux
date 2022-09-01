@@ -18,6 +18,7 @@ main() {
   right_alt_sep=''
 
   tmux set-option -g status on
+  tmux set-option -g status-justify centre
   tmux set-option -g status-left-length 100
   tmux set-option -g status-right-length 100
   tmux set-option -g status-bg "${black}"
